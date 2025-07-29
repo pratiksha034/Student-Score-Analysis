@@ -1,6 +1,8 @@
 # Student-Score-Analysis
 
 🔍 Project Overview
+
+
 This project analyzes student performance data to uncover trends, insights, and potential areas for academic improvement. It uses Python and data visualization libraries to draw meaningful interpretations from raw score data.
 
 🧰 Technologies Used

@@ -2,6 +2,8 @@
 
 
 🔍 Project Overview
+
+
 This project analyzes student performance data using Python. It includes data cleaning, total and average score calculation, and visualizations to understand subject-wise and student-wise trends.
 
 🧰 Technologies Used
